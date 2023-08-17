@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rupesh-Mehta
 - 👀 I’m interested in ...coding language
 - 🌱 I’m currently learning ... java language
-- 💞️ I’m looking to collaborate on ... web developer
+- 💞️ I’m looking to collaborate on ... java developer
 - 📫 How to reach me ... by knowing with my teacher or google
 
 <!---
